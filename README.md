@@ -1,4 +1,4 @@
-## GitProject
+# GitProject
 
 Dans le cadre de notre projet git nous devions signer chacun de nos commit des étapes sont indispensable telle que la génération de notre clé GPG & SSH
 
