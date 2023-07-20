@@ -27,7 +27,7 @@ git clone git@github.com:tgelectro/Projet_GIT.git
 
 ---------------------
 
-## Pour faire une branch et aller durectement sur celle-ci
+## Pour faire une branch et aller directement sur celle-ci
 
 git checkout -b Branch-By-Vishal
 git push <- pour bien partager la branch au collaborateur
