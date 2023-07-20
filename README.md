@@ -5,7 +5,7 @@ Dans le cadre de notre projet git nous devions signer chacun de nos commit des �
 ## Générer une nouvelle paire de clés
 gpg --full-generate-key
 
-#1 - 4096 - 0 - y - <prenom.nom> - <mail git> - Auto-sign - O - Ignorer le champs passphrase > yes no need protection
+1 - 4096 - 0 - y - <prenom.nom> - <mail git> - Auto-sign - O - Ignorer le champs passphrase > yes no need protection
 
 ## Voir la liste de toutes les clés GPG
 gpg --list-keys
