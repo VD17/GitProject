@@ -19,20 +19,22 @@ git config --global commit.gpgsign true
 
 ---------------------
 
+# Configurer Git pour utiliser SSH
+
 ssh-keygen -t ed25519  -C " "
 cat /home/vishal/.ssh/id_ed25519.pub\n
 git clone git@github.com:tgelectro/Projet_GIT.git
 
 ---------------------
 
-Pour faire une branch et aller durectement sur celle-ci : 
+#Pour faire une branch et aller durectement sur celle-ci : 
 
 git checkout -b Branch-By-Vishal
 git push <- pour bien partager la branch au collaborateur
 
 ---------------------
 
-Afin de crée des issue nous utiliserons le packet "gh" ce dernier s'installe ainsi :
+#Afin de crée des issue nous utiliserons le packet "gh" ce dernier s'installe ainsi :
 
 sudo apt install gh
 
